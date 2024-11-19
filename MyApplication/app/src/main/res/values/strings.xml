@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Recipe String -->
+
+</resources>
+    <!--<resources>-->
+<!--    <string name="app_name">My Application</string>-->
+
+<!--    <string name="pancakes">-->
+<!--        INGREDIENTS:<br/>-->
+<!--        1 cup all-purpose flour<br/>-->
+<!--        2 tbsp sugar<br/>-->
+<!--        2 tsp baking powder<br/>-->
+<!--        1/2 tsp salt<br/>-->
+<!--        1 cup milk<br/>-->
+<!--        1 egg<br/>-->
+<!--        2 tbsp melted butter or oil<br/><br/>-->
+<!--        INSTRUCTIONS:<br/>-->
+<!--        1. Mix dry ingredients:<br/>-->
+<!--        In a bowl, whisk together flour, sugar, baking powder, and salt.<br/><br/>-->
+<!--        2. Mix wet ingredients:<br/>-->
+<!--        In another bowl, beat egg, then add milk and melted butter/oil. Mix well.<br/><br/>-->
+<!--        3. Combine:<br/>-->
+<!--        Pour the wet ingredients into the dry ingredients. Stir until just combined (it's okay if it's a bit lumpy).<br/><br/>-->
+<!--        4. Cook:<br/>-->
+<!--        Heat a non-stick pan over medium heat.<br/>-->
+<!--        Pour 1/4 cup of batter onto the pan for each pancake.<br/>-->
+<!--        Cook until bubbles form on top, then flip and cook until golden brown.<br/><br/>-->
+<!--        5. Serve:<br/>-->
+<!--        Enjoy warm with your favorite toppings like syrup or fruits.-->
+<!--    </string>-->
+
+<!--&lt;!&ndash;    <string name="chocolate_cream_cake">&ndash;&gt;-->
+<!--&lt;!&ndash;        CHOCOLATE CREAM CAKE<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        INGREDIENTS:<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        CHOCOLATE CAKE<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 3/4 cups all-purpose flour, or (plain flour), (8 oz | 227 g)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         3/4 cup unsweetened cocoa powder, (2.6 oz | 75 g) or regular Hershey's cocoa powder<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 1/2 teaspoons baking powder<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 1/2 teaspoons baking soda, (or bi-carb soda)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 teaspoon salt<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         2 cups white granulated sugar, (14 oz | 410 g)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         2 large eggs<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 cup milk, (250 ml)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1/2 cup vegetable oil, (125 ml)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         2 teaspoons pure vanilla extract<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 cup boiling water (250 ml)<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        CHOCOLATE BUTTERCREAM FROSTING<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         4 oz butter, (120 g | 1/2 cup)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         2/3 cup unsweetened cocoa powder, or regular HERSHEY'S (2.4 oz | 65 g)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         3 cups powdered sugar, (confectioners or icing sugar)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1/3 cup milk<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;         1 teaspoon pure vanilla extract<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        INSTRUCTIONS:<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        CHOCOLATE CAKE<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1. Preheat oven to 350°F (180°C) standard or 320°F (160°C) fan/convection.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2. Lightly grease 2x 9-inch (22cm) round cake pans with butter. Line base with parchment paper.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        3. Sift together flour, cocoa, baking powder, baking soda and salt into a large bowl. Whisk in sugar, then add eggs, milk, oil and vanilla. Whisk well to combine until lump free, about 30 seconds.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4. Pour boiling water into batter, mixing well. Cake batter is thin in consistency.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        5. Pour batter into cake pans and bake for 30-35 minutes or until a wooden skewer inserted into the centre comes out clean.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        6. Let cool for 10 minutes, then turn out onto wire racks to cool completely before frosting.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </string>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <string name="cookies">&ndash;&gt;-->
+<!--&lt;!&ndash;    COOKIES :<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    INGREDIENTS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     1 cup (2 sticks) softened butter<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     3/4 cup granulated sugar<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     3/4 cup packed brown sugar<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     2 eggs<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     1 tsp vanilla extract<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     2 1/4 cups all-purpose flour<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     1 tsp baking soda<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     1/2 tsp salt<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;     2 cups chocolate chips<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    INSTRUCTIONS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    1. Cream butter, sugars, eggs, and vanilla.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    2. Mix in flour, baking soda, and salt.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    3. Fold in chocolate chips.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    4. Drop tablespoons on a baking sheet.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    5. Bake at 375°F (190°C) for 9-11 minutes.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </string>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <string name="doughnuts">&ndash;&gt;-->
+<!--&lt;!&ndash;        DOUGHNUTS<br/><br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        INGREDIENTS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1 cup whole milk<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2 1/4 tsp active dry yeast<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1/4 cup granulated sugar<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2 large eggs<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4 tbsp melted unsalted butter<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1 tsp vanilla extract<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4 cups all-purpose flour<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1/2 tsp salt<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        Oil for frying<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        For glaze: 2 cups powdered sugar, 1/4 cup milk, 1 tsp vanilla extract<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        INSTRUCTIONS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1. Warm milk, mix with yeast, let sit for 5-10 mins. Add sugar, eggs, melted butter, vanilla. Combine with flour and salt to form dough. Knead for 5-7 mins, let rise for 1-2 hrs.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2. Roll dough, cut into doughnut shapes. Let rise for 30-45 mins.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        3. Heat oil to 350°F (175°C). Fry doughnuts for 1-2 mins per side until golden brown. Drain on paper towels.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4. Mix powdered sugar, milk, and vanilla for glaze. Dip cooled doughnuts in glaze, let excess drip off. Add toppings if desired.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        5. Allow glaze to set for 10-15 mins. Enjoy your homemade doughnuts!<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </string>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    &lt;!&ndash; Add rest of the recipes similarly &ndash;&gt;&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <string name="chocolate_strawberries">&ndash;&gt;-->
+<!--&lt;!&ndash;        CHOCOLATE STRAWBERRIES<br/><br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        INGREDIENTS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        Fresh strawberries (1 pound / 450g)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        8 ounces (225g) semi-sweet or dark chocolate (chopped) or chocolate chips<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        Optional: White chocolate for decoration<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        INSTRUCTIONS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1. Rinse and dry strawberries thoroughly.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2. Melt chocolate in the microwave or using a double boiler.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        3. Dip strawberries into the melted chocolate, coating them.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4. Place on parchment-lined tray.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        5. Optional: Drizzle with melted white chocolate.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        6. Chill in the refrigerator for 20-30 mins until chocolate sets.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        7. Serve or store refrigerated in an airtight container.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </string>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <string name="hot_chocolate">&ndash;&gt;-->
+<!--&lt;!&ndash;        HOT CHOCOLATE<br/><br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        INGREDIENTS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2 cups of milk<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2 tablespoons of cocoa powder<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2 tablespoons of sugar (adjust to taste)<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1/4 cup of water<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1/4 teaspoon of vanilla extract<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        A pinch of salt<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        Optional toppings: whipped cream, chocolate shavings, marshmallows<br/><br/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;        INSTRUCTIONS:<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        1. In a saucepan, mix cocoa powder, sugar, water, and salt over medium heat until smooth.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        2. Add milk gradually, stirring continuously to avoid lumps.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        3. Heat the mixture until it's hot but not boiling, and then remove from heat.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        4. Stir in vanilla extract.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;        5. Pour into mugs and top with whipped cream, chocolate shavings, or marshmallows if desired.<br/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </string>&ndash;&gt;-->
+<!--</resources>-->

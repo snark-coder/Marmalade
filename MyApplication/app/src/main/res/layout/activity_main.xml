@@ -1,0 +1,268 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5E0D8">
+
+    <RelativeLayout
+        android:id="@+id/topBand"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#D3B683"
+        android:padding="8dp">
+
+        <!-- App Name -->
+        <TextView
+            android:id="@+id/appName"
+            android:layout_width="301dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="sans-serif-black"
+            android:text="Marmalade"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="37sp" /> <!-- Center vertically -->
+
+        <!-- App Icon -->
+        <ImageView
+            android:id="@+id/appIcon"
+            android:layout_width="78dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/app_image" />
+    </RelativeLayout>
+
+
+    <!-- ScrollView for icons -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/topBand">
+
+        <!-- Layout for icons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Row 1 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- Icon 1 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="4dp">
+
+                    <ImageView
+                        android:id="@+id/image_view1"
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/notethree" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Pancakes"
+                        android:textAlignment="center"
+                        android:textSize="14sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#00000000"
+                        android:textStyle="bold"
+                        android:padding="4dp"
+                        android:layout_marginTop="8dp"
+                        android:gravity="center_horizontal" />
+                </FrameLayout>
+
+                <!-- Icon 2 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="4dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:src="@drawable/image1"
+                        android:scaleType="centerCrop"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Chocolate Cream Cake"
+                        android:textAlignment="center"
+                        android:textSize="14sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#00000000"
+                        android:padding="4dp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="8dp"
+                        android:gravity="center_horizontal" />
+                </FrameLayout>
+            </LinearLayout>
+
+            <!-- Add more rows similarly -->
+            <!-- Row 2 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- Icon 3 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="4dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:src="@drawable/notefour"
+                        android:scaleType="centerCrop"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Cookies"
+                        android:textAlignment="center"
+                        android:textSize="14sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#00000000"
+                        android:textStyle="bold"
+                        android:padding="4dp"
+                        android:layout_marginTop="8dp"
+                        android:gravity="center_horizontal" />
+                </FrameLayout>
+
+                <!-- Icon 4 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/noteone" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:layout_marginTop="8dp"
+                        android:background="#00000000"
+                        android:textStyle="bold"
+                        android:gravity="center_horizontal"
+                        android:padding="4dp"
+                        android:text="Donuts"
+                        android:textAlignment="center"
+                        android:textColor="#FFFFFF"
+                        android:textSize="14sp" />
+                </FrameLayout>
+            </LinearLayout>
+
+            <!-- Row 3 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- Icon 5 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="4dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/image4" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Hot Chocolate"
+                        android:textAlignment="center"
+                        android:textSize="14sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#00000000"
+                        android:textStyle="bold"
+                        android:padding="4dp"
+                        android:layout_marginTop="8dp"
+                        android:gravity="center_horizontal" />
+                </FrameLayout>
+
+                <!-- Icon 6 -->
+                <FrameLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_margin="4dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="240dp"
+                        android:src="@drawable/image5"
+                        android:scaleType="centerCrop"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/rounded_corner_bg"
+                        android:clipToOutline="true" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:text="Choco strawberries"
+                        android:textAlignment="center"
+                        android:textSize="14sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#00000000"
+                        android:textStyle="bold"
+                        android:padding="4dp"
+                        android:layout_marginTop="8dp"
+                        android:gravity="center_horizontal" />
+                </FrameLayout>
+            </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
